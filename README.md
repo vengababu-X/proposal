@@ -1,18 +1,17 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== LOVE HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=800&color=FF0F5B&center=true&vCenter=true&width=650&lines=I+Have+Something+To+Tell+You+❤️;This+Is+Not+Just+Code;This+Is+For+You+💙" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=36&duration=4000&pause=1200&color=FF0F5B&center=true&vCenter=true&width=700&lines=For+You+❤️;With+Love+and+Patience;From+My+Heart+to+Yours" />
 </p>
 
 <p align="center">
-  <!-- Floating Hearts -->
-  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="90"/>
-  <img src="https://media.giphy.com/media/l0MYyDa8S9ghzNevS/giphy.gif" width="90"/>
+  ❤️ &nbsp; 💖 &nbsp; 💗 &nbsp; 💓 &nbsp; 💞 &nbsp; 💙
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=24&duration=4000&pause=1200&color=4FA8FF&center=true&vCenter=true&width=700&lines=Sometimes+chaos+needs+time+to+become+beautiful;Sometimes+it+becomes+a+heart" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&lines=This+is+not+just+code.;It+is+a+feeling.;It+is+me+choosing+you." />
 </p>
+
+---
 
 ---
 ---
