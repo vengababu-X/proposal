@@ -1,4 +1,4 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=FF0F5B&center=true&vCenter=true&width=600&lines=I+Have+Something+To+Tell+You+❤️;This+Is+Not+Just+Code;This+Is+For+You+💙" />
 </p>
