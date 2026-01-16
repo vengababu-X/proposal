@@ -1,12 +1,20 @@
-
+<!-- ===================== ANIMATED HEADER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=800&color=FF0F5B&center=true&vCenter=true&width=600&lines=I+Have+Something+To+Tell+You+❤️;This+Is+Not+Just+Code;This+Is+For+You+💙" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=800&color=FF0F5B&center=true&vCenter=true&width=650&lines=I+Have+Something+To+Tell+You+❤️;This+Is+Not+Just+Code;This+Is+For+You+💙" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="120" />
+  <!-- Floating Hearts -->
+  <img src="https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="90"/>
+  <img src="https://media.giphy.com/media/l0MYyDa8S9ghzNevS/giphy.gif" width="90"/>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=24&duration=4000&pause=1200&color=4FA8FF&center=true&vCenter=true&width=700&lines=Sometimes+chaos+needs+time+to+become+beautiful;Sometimes+it+becomes+a+heart" />
+</p>
+
+---
 ---
 
 ## 💓 About This Project
@@ -30,7 +38,7 @@ Just **motion, emotion, and intention**.
 ## 🎬 Live Experience
 
 <p align="center">
-  <a href="https://<your-username>.github.io/<repo-name>/" target="_blank">
+  <a href="https://vengababu-x.github.io/proposal/" target="_blank">
     <img src="https://img.shields.io/badge/OPEN_THE_WEBSITE-FF0F5B?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
