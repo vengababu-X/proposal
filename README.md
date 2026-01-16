@@ -10,12 +10,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3500&pause=1500&color=AAAAAA&center=true&vCenter=true&width=700&lines=This+is+not+just+code.;It+is+a+feeling.;It+is+me+choosing+you." />
 </p>
-
----
-
 ---
 ---
-
 ## 💓 About This Project
 
 <p align="center">
